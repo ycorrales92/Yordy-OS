@@ -10,7 +10,7 @@ call PrintString
 
 call ReadDisk
 
-call PrintString
+;call PrintString
 
 jmp PROGRAM_SPACE
 
